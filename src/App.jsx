@@ -6,7 +6,6 @@ import {WEBSITE_NAME,
         BUTTON_1, BUTTON_2 } from "./config";
 
 
-
 const App = () => {
   return (
     <>
@@ -27,7 +26,6 @@ const App = () => {
         <img src={WEBSITE_BANNER} className='h-[600px] px-12' alt='banner'/>
       </div>
     </div>
-
     </>
   )
 }
